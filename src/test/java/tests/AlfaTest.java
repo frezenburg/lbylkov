@@ -39,7 +39,7 @@ public class AlfaTest {
         calc.selectTerm(CreditFormCalc.TERM_36);
 
         page.clickOformit();
-        page.fillPhone("291234567");
+        page.fillPhone("297777777");
         page.clickSend();
     }
 
